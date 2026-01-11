@@ -2,7 +2,7 @@ This project performs an Exploratory Data Analysis (EDA) on a real-world house p
 The goal is to understand the data structure, clean missing and inconsistent values, engineer useful features, and extract meaningful insights about house prices and locations.
 
 This project is intended as a portfolio-ready EDA project and a learning reference for future data science and machine learning work.
-
+Note:The CSV where i found the data is too heavy to upload here.
 A) Objectives
 
 Understand the structure and quality of the dataset
